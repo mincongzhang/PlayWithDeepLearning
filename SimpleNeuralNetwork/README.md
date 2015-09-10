@@ -5,3 +5,7 @@ https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-ne
 https://medium.com/technology-invention-and-more/how-to-build-a-multi-layered-neural-network-in-python-53ec3d1d326a  
 3. Visual learning:  
 https://medium.com/deep-learning-101/how-to-generate-a-video-of-a-neural-network-learning-in-python-62f5c520e85c  
+
+
+Online python:  
+https://www.pythonanywhere.com
