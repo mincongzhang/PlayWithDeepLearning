@@ -1,5 +1,5 @@
 
-#### Basic idea for One Layer NN  
+#### 1. Basic idea for One Layer NN  
 __Error__  = truth - output  
 __Input__  :  1, take into account; 0 ignore   
 __Factor__ = SigmoidGradient(output)  
