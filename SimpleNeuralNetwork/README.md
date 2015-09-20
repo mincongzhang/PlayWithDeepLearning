@@ -1,4 +1,17 @@
-Follow the 3 steps:  
+
+#### Basic idea for One Layer NN  
+Error  = truth - output  
+Input  :  1, take into account; 0 ignore   
+Factor = SigmoidGradient(output)  
+
+Adjustment = Error * Input * Factor
+
+Synaptic += Adjustment  
+
+*why Sigmoid? Adjust less for extremes
+
+
+Reference:     
 1.One layer NN:  
 https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1  
 2. Two layer NN:  
