@@ -1,10 +1,10 @@
 
 #### Basic idea for One Layer NN  
-_Error_  = truth - output  
-_Input_  :  1, take into account; 0 ignore   
-_Factor_ = SigmoidGradient(output)  
-_Adjustment_ = Error * Input * Factor
-_Synaptic_ += Adjustment  
+__Error__  = truth - output  
+__Input__  :  1, take into account; 0 ignore   
+__Factor__ = SigmoidGradient(output)  
+__Adjustment__ = Error * Input * Factor
+__Synaptic__ += Adjustment  
 
 *why Sigmoid? Adjust less for extremes
 
