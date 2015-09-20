@@ -9,7 +9,7 @@ __Synaptic__ += Adjustment
 *why Sigmoid? Adjust less for extremes
 
 #### 2. Basic idea for Two Layer NN  
-define: 2 = layer2
+define: 2 = layer2  
 define: 1 = layer1
 
 __Error2__ = truth - output2  
