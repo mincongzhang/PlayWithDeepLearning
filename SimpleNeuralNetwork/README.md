@@ -8,6 +8,23 @@ __Synaptic__ += Adjustment
 
 *why Sigmoid? Adjust less for extremes
 
+#### 2. Basic idea for Two Layer NN  
+define: 2 = layer2
+define: 1 = layer1
+
+----------------------------------
+__Error2__ = truth - output2  
+__Factor2__ = SigmoidGradient(Output2)  
+__Delta2__ = Error2 * Factor2  
+__Adjustment2__ = Output1 * Delta2  
+----------------------------------
+__Error1__ = __Delta2__ * Synaptic2  
+__Factor1__ = SigmoidGradient(Output1)  
+__Delta1__ = Error1 * Factor1  
+__Adjustment1__ = Input1 * Delta1
+----------------------------------
+__Synaptic1__ += Adjustment1  
+__Synaptic2__ += Adjustment2  
 
 Reference:     
 1.One layer NN:  
