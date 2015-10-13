@@ -25,7 +25,7 @@ __Adjustment1__ = Input1 * Delta1
 __Synaptic1__ += Adjustment1  
 __Synaptic2__ += Adjustment2  
 
-Reference:     
+#### Reference:     
 1.One layer NN:  
 https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1  
 2. Two layer NN:  
