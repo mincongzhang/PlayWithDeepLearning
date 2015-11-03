@@ -14,6 +14,10 @@ http://www.cnblogs.com/xiaowanyer/p/3701944.html
 http://neuralnetworksanddeeplearning.com/
 
 #### Neural Networks Demystified 
-[Neural Networks Demystified [Part 1: Data and Architecture]](https://www.youtube.com/watch?v=bxe2T-V8XRs)
-
-
+[Neural Networks Demystified [Part 1: Data and Architecture]](https://www.youtube.com/watch?v=bxe2T-V8XRs)  
+[Neural Networks Demystified [Part 2: Forward Propagation]](https://www.youtube.com/watch?v=UJwK6jAStmg)  
+[Neural Networks Demystified [Part 3: Gradient Descent]](https://www.youtube.com/watch?v=5u0jaA3qAGk)  
+[Neural Networks Demystified [Part 4: Backpropagation]](https://www.youtube.com/watch?v=GlcnxUlrtek)  
+[Neural Networks Demystified [Part 5: Numerical Gradient Checking]](https://www.youtube.com/watch?v=pHMzNW8Agq4)  
+[Neural Networks Demystified [Part 6: Training]](https://www.youtube.com/watch?v=9KM9Td6RVgQ)  
+[Neural Networks Demystified [Part 7: Overfitting, Testing, and Regularization]](https://www.youtube.com/watch?v=S4ZUwgesjS8)  
