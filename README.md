@@ -12,3 +12,8 @@ http://www.cnblogs.com/xiaowanyer/p/3701944.html
 
 #### Neural Networks and Deep Learning online book
 http://neuralnetworksanddeeplearning.com/
+
+#### Neural Networks Demystified 
+[Neural Networks Demystified [Part 1: Data and Architecture]](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+
+
