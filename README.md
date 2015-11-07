@@ -21,3 +21,11 @@ http://neuralnetworksanddeeplearning.com/
 [Neural Networks Demystified [Part 5: Numerical Gradient Checking]](https://www.youtube.com/watch?v=pHMzNW8Agq4)  
 [Neural Networks Demystified [Part 6: Training]](https://www.youtube.com/watch?v=9KM9Td6RVgQ)  
 [Neural Networks Demystified [Part 7: Overfitting, Testing, and Regularization]](https://www.youtube.com/watch?v=S4ZUwgesjS8)  
+
+#### History of Monte Carlo Methods
+http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-1.html  
+http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-2.html
+
+#### Inspirations
+[DeepArt](http://www.deepart.io/)
+[DeepBeat](http://www.deepbeat.org/)
