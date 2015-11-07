@@ -27,5 +27,5 @@ http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-1.html
 http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-2.html
 
 #### Inspirations
-[DeepArt](http://www.deepart.io/)
+[DeepArt](http://www.deepart.io/)  
 [DeepBeat](http://www.deepbeat.org/)
