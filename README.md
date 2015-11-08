@@ -26,6 +26,10 @@ http://neuralnetworksanddeeplearning.com/
 http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-1.html  
 http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-2.html
 
+#### Understanding Convolutional Neural Networks for NLP
+http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+
+
 #### Inspirations
 [DeepArt](http://www.deepart.io/)  
 [DeepBeat](http://www.deepbeat.org/)
