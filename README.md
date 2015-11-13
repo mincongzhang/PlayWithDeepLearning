@@ -1,9 +1,9 @@
 # PlayWithDeepLearning
 
-tutorial with python example:  http://deeplearning.net/tutorial/
-
+#### Visual Intro to Machine Learning
 http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
+#### Neural Network Animation
 https://github.com/miloharper/neural-network-animation
 
 #### A Deep Learning Tutorial: From Perceptrons to Deep Networks
@@ -29,9 +29,10 @@ http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-2.html
 #### Understanding Convolutional Neural Networks for NLP
 http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
 
-#### 卷积神经网络科普
+#### 卷积神经网络应用于自拍
 [什么才是最好的自拍？卷积神经网络来告诉你](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=400386955&idx=1&sn=3bd3ef242aff44d9e1badcaec8e7317a&scene=1&srcid=1108apvr6jYZHD2PIt0G2z3Y&key=d4b25ade3662d64367758b72a9abd1d8d8713521875ee645f66cfe3f992c82648c5626ba2cfa180984421f12806e79c4&ascene=1&uin=OTE0NTE3ODQx&devicetype=webwx&version=70000001&pass_ticket=tArUOWbqwITpzjQ3azGIO6N2B47ppHw3S7rTD0yckGwtFSqXlefYVgvRLmK2eqi5)
 
+#### 卷积神经网络在自然语言处理的应
 [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)  
 [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)  
 
