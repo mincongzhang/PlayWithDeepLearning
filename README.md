@@ -1,7 +1,7 @@
 # PlayWithDeepLearning
 
 #### 3D Visualization of Convolutional Neural Networks
-Paper: http://scs.ryerson.ca/~aharley/vis/harley_vis_isvc15.pdf
+Paper: http://scs.ryerson.ca/~aharley/vis/harley_vis_isvc15.pdf  
 Link: http://scs.ryerson.ca/~aharley/vis/conv/
 
 
