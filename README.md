@@ -27,12 +27,15 @@ http://neuralnetworksanddeeplearning.com/
 [Neural Networks Demystified [Part 6: Training]](https://www.youtube.com/watch?v=9KM9Td6RVgQ)  
 [Neural Networks Demystified [Part 7: Overfitting, Testing, and Regularization]](https://www.youtube.com/watch?v=S4ZUwgesjS8)  
 
+#### Understanding Convolutional Neural Networks for NLP
+http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+
 #### History of Monte Carlo Methods
 http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-1.html  
 http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-2.html
 
-#### Understanding Convolutional Neural Networks for NLP
-http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+#### Markov Chains Explained Visually
+http://setosa.io/ev/markov-chains/
 
 #### 卷积神经网络应用于自拍
 [什么才是最好的自拍？卷积神经网络来告诉你](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=400386955&idx=1&sn=3bd3ef242aff44d9e1badcaec8e7317a&scene=1&srcid=1108apvr6jYZHD2PIt0G2z3Y&key=d4b25ade3662d64367758b72a9abd1d8d8713521875ee645f66cfe3f992c82648c5626ba2cfa180984421f12806e79c4&ascene=1&uin=OTE0NTE3ODQx&devicetype=webwx&version=70000001&pass_ticket=tArUOWbqwITpzjQ3azGIO6N2B47ppHw3S7rTD0yckGwtFSqXlefYVgvRLmK2eqi5)
