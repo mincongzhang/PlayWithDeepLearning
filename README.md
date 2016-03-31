@@ -1,5 +1,8 @@
 # PlayWithDeepLearning
 
+#### Building Neural Networks: Part 0
+http://www.nathan1hughes.co.uk/tutorials/building-neural-networks-part-0/
+
 #### 3D Visualization of Convolutional Neural Networks
 Paper: http://scs.ryerson.ca/~aharley/vis/harley_vis_isvc15.pdf  
 Link: http://scs.ryerson.ca/~aharley/vis/conv/
