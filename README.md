@@ -41,7 +41,7 @@ http://www.nowozin.net/sebastian/blog/history-of-monte-carlo-methods-part-2.html
 http://setosa.io/ev/markov-chains/
 
 #### Why Lua
-<img src="https://github.com/mincongzhang/PlayWithDeepLearning/raw/master/WhyLua.jpg" alt="1" title="1" width="500"/>
+<img src="https://github.com/mincongzhang/PlayWithDeepLearning/raw/master/WhyLua.jpg" alt="1" title="1" width="700"/>
 
 #### 卷积神经网络应用于自拍
 [什么才是最好的自拍？卷积神经网络来告诉你](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=400386955&idx=1&sn=3bd3ef242aff44d9e1badcaec8e7317a&scene=1&srcid=1108apvr6jYZHD2PIt0G2z3Y&key=d4b25ade3662d64367758b72a9abd1d8d8713521875ee645f66cfe3f992c82648c5626ba2cfa180984421f12806e79c4&ascene=1&uin=OTE0NTE3ODQx&devicetype=webwx&version=70000001&pass_ticket=tArUOWbqwITpzjQ3azGIO6N2B47ppHw3S7rTD0yckGwtFSqXlefYVgvRLmK2eqi5)
